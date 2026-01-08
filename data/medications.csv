@@ -1,0 +1,6 @@
+med_id,patient_id,medication_name,dose,frequency,start_date,indication
+1,1001,Lisinopril,10 mg,Once daily,9/1/2024,Hypertension
+2,1002,Amlodipine,5 mg,Once daily,8/20/2024,Hypertension
+3,1003,Metoprolol,50 mg,Twice daily,9/10/2024,Hypertension
+4,1003,Atorvastatin,20 mg,Once daily,9/10/2024,Hyperlipidemia
+5,1005,Losartan,50 mg,Once daily,9/5/2024,Hypertension
