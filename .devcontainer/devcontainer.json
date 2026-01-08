@@ -1,7 +1,10 @@
 {
-  "name": "HI5304 Python + Jupyter",
-  "image": "mcr.microsoft.com/devcontainers/python:3.12",
-  "features": {},
+  "name": "HI5304 Python + Jupyter + Postgres",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "forwardPorts": [5432],
+
   "customizations": {
     "vscode": {
       "extensions": [
@@ -17,6 +20,7 @@
       }
     }
   },
+
   "postCreateCommand": "python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt && python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\"",
   "remoteUser": "vscode"
 }
