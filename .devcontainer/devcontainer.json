@@ -5,6 +5,10 @@
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "forwardPorts": [5432],
 
+  "features": {
+    "ghcr.io/devcontainers/features/postgres-client:1": {}
+  },
+
   "customizations": {
     "vscode": {
       "extensions": [
@@ -24,3 +28,4 @@
   "postCreateCommand": "python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt && python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\"",
   "remoteUser": "vscode"
 }
+
