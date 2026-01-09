@@ -1,13 +1,10 @@
 {
   "name": "HI5304 Python + Jupyter + Postgres",
-  "dockerComposeFile": "docker-compose.yml",
+  "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
+  "runServices": ["db"],
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "forwardPorts": [5432],
-
-  "features": {
-    "ghcr.io/devcontainers/features/postgres-client:1": {}
-  },
 
   "customizations": {
     "vscode": {
