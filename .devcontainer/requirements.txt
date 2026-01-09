@@ -7,3 +7,4 @@ scikit-learn
 jupyter
 ipykernel
 seaborn
+sqlalchemy
