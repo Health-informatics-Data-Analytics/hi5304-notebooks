@@ -3,17 +3,33 @@
   "dockerComposeFile": "../docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+  "features": {
+    "ghcr.io/devcontainers/features/postgres-client:1": {}
+  },
+
   "customizations": {
     "vscode": {
       "extensions": [
         "ms-python.python",
         "ms-toolsai.jupyter",
         "ms-python.vscode-pylance"
-      ]
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.terminal.activateEnvironment": false,
+        "jupyter.askForKernelRestart": false
+      }
     }
   },
-  "postCreateCommand": "python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt"
+
+  "postCreateCommand": [
+    "python -m pip install --upgrade pip",
+    "pip install -r .devcontainer/requirements.txt",
+    "python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\""
+  ]
 }
+
 
 
 
