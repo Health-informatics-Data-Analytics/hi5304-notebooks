@@ -24,3 +24,4 @@ services:
 
 volumes:
   hi5304_pgdata:
+
