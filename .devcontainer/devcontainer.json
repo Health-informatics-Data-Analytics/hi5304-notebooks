@@ -23,9 +23,10 @@
   },
 
   "postCreateCommand": "python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt && python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\"",
-  "remoteUser": "vscode"
-  "remoteUser": "vscode",
-  "postStartCommand": "apk add --no-cache postgresql-client || true"
 
+  "postStartCommand": "apk add --no-cache postgresql-client || true",
+
+  "remoteUser": "vscode"
 }
+
 
