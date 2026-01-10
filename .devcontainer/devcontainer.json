@@ -19,7 +19,8 @@
     }
   },
 
-  "postCreateCommand": "apt-get update && apt-get install -y postgresql-client && python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt && python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\""
+ "postCreateCommand": "sudo apt-get update && sudo apt-get install -y postgresql-client && python -m pip install --upgrade pip && pip install -r .devcontainer/requirements.txt && python -m ipykernel install --user --name hi5304 --display-name \"Python (HI5304)\""
+
 }
 
 
