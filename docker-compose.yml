@@ -14,7 +14,7 @@ services:
     restart: unless-stopped
     environment:
       POSTGRES_USER: hi5304_user
-      POSTGRES_PASSWORD: hi5304_password
+      POSTGRES_PASSWORD: hi5304
       POSTGRES_DB: hi5304
     ports:
       - "5432:5432"
