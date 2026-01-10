@@ -11,6 +11,7 @@ services:
 
   db:
     image: postgres:16
+    container_name: hi5304_db
     restart: unless-stopped
     environment:
       POSTGRES_USER: hi5304_user
@@ -23,6 +24,7 @@ services:
 
 volumes:
   hi5304_pgdata:
+
 
 
 
