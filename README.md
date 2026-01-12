@@ -153,7 +153,7 @@ psql -h db -U hi5304_user -d hi5304 -c "SELECT * FROM patients LIMIT 10;"
 
 In every notebook, select:
 
-**✅ Python (HI5304)**
+**✅ Python (HI5304) or Python 3.12.12** 
 
 Do **not** use the generic Python kernel.
 
