@@ -1,8 +1,3 @@
-Absolutely — below is a **student-ready, course-appropriate README** you can **copy and paste directly into `README.md`**. It’s written to be clear, reassuring, and instructional, while still modeling good professional habits.
-
-You can tweak tone or headings later, but this is a strong Week 1–Week 2 foundation.
-
----
 
 # HI 5304 — Health Informatics Data Analytics
 
