@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,date_of_birth,sex,race,ethnicity,zip_code
+1001,John,Doe,1968-04-12,M,White,Non-Hispanic,75201
+1002,Maria,Lopez,1975-09-30,F,Hispanic,Hispanic,75204
+1003,James,Smith,1982-01-18,M,Black,Non-Hispanic,75080
+1004,Linda,Chen,1990-06-05,F,Asian,Non-Hispanic,75024
+1005,Robert,Johnson,1959-11-22,M,White,Non-Hispanic,75230

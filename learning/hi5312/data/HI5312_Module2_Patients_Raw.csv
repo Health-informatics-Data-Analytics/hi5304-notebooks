@@ -1,0 +1,123 @@
+patient_id,encounter_id,admission_date,discharge_date,age,sex,race_ethnicity,systolic_bp,diastolic_bp,bmi,ldl_cholesterol,diabetes,hypertension,smoking_status,primary_diagnosis,readmitted_30d,facility
+P0001,E00001,2025-03-21,2025-03-25,29,Male,White,137,99,25.4,132,Yes,No,Former,Chest Pain,No,Community Hospital
+P0002,E00002,2025-01-29,2025-01-31,48,Male,Asian,132,90,33.1,76,No,Yes,Never,Chest Pain,No,Community Hospital
+P0003,E00003,2025-05-03,2025-05-05,81,Female,White,105,45,28.3,113,No,No,Never,Pneumonia,No,Community Hospital
+P0004,E00004,2025-10-09,2025-10-14,83,Female,Hispanic,129,85,24.6,109,Yes,No,Never,COPD,Yes,University Medical Center
+P0005,E00005,2025-07-22,2025-07-26,53,Male,Other,91,65,33.2,152,Yes,Yes,Never,Stroke,No,Community Hospital
+P0006,E00006,2025-08-04,2025-08-12,30,Female,White,138,86,24.3,,Yes,Yes,Former,Pneumonia,No,University Medical Center
+P0007,E00007,2025-07-10,2025-07-14,48,Male,Asian,161,72,38.8,154,No,Yes,Never,Stroke,No,University Medical Center
+P0008,E00008,2025-06-04,2025-06-10,86,Male,Black,144,60,30.1,108,No,Yes,Never,Pneumonia,No,Community Hospital
+P0009,E00009,2025-01-15,2025-01-23,214,Female,Black,171,56,15.2,73,No,Yes,Never,COPD,No,North Campus
+P0010,E00010,2025-02-21,2025-02-22,67,Female,Hispanic,97,72,29.2,62,Yes,Yes,Current,Stroke,No,North Campus
+P0011,E00011,2025-09-24,2025-10-03,51,Female,Hispanic,125,69,31.3,130,Yes,No,Former,Pneumonia,No,North Campus
+P0012,E00012,2025-10-08,,79,Female,Asian,166,88,11.0,104,No,Yes,Never,Heart Failure,No,Community Hospital
+P0013,E00013,2025-01-17,2025-01-20,69,Female,White,105,65,32.7,86,No,No,Current,Heart Failure,Yes,Community Hospital
+P0014,E00014,2025-04-27,2025-05-03,36,Male,White,96,81,12.3,71,No,Yes,Never,Pneumonia,No,University Medical Center
+P0015,E00015,2025-05-29,2025-06-04,26,F,Other,107,77,21.8,96,No,No,Never,Pneumonia,No,University Medical Center
+P0016,E00016,2025-05-25,2025-06-02,56,Female,Black,111,89,34.0,72,No,No,Never,Heart Failure,Yes,Community Hospital
+P0017,E00017,2025-05-15,2025-05-24,72,Male,Hispanic,77,73,32.1,124,No,Yes,Current,Diabetes,No,Community Hospital
+P0018,E00018,2025-04-19,2025-04-27,58,Female,Asian,183,88,27.2,143,Yes,Yes,Former,COPD,No,University Medical Center
+P0019,E00019,2025-02-09,2025-02-11,24,Female,Hispanic,136,74,22.5,73,Yes,Yes,Former,Chest Pain,No,Community Hospital
+P0020,E00020,2025-04-17,2025-04-19,41,Female,Black,155,71,21.6,,No,Yes,Never,Heart Failure,No,Community Hospital
+P0021,E00021,2025-07-03,2025-07-07,51,Female,White,135,72,21.2,71,No,Yes,Former,Diabetes,No,North Campus
+P0022,E00022,2025-03-21,2025-03-27,70,Female,Asian,131,69,23.6,82,Y,No,Never,Chest Pain,No,University Medical Center
+P0023,E00023,2025-03-09,2025-03-11,51,Male,Black,101,73,21.6,52,No,Yes,Former,Stroke,No,University Medical Center
+P0024,E00024,2025-03-13,2025-03-19,67,Male,Other,156,99,31.6,105,Yes,Yes,Former,COPD,No,North Campus
+P0025,E00025,2025-02-25,2025-02-26,32,Male,Black,134,56,38.7,87,No,No,Former,Stroke,Yes,University Medical Center
+P0026,E00026,2025-09-27,2025-09-28,73,Male,Hispanic,110,87,26.0,139,Yes,No,Never,Heart Failure,No,North Campus
+P0027,E00027,2025-08-14,2025-08-17,40,Male,Asian,420,77,29.9,130,Yes,Yes,Never,Pneumonia,No,North Campus
+P0028,E00028,2025-08-06,2025-08-13,76,Female,Black,130,95,36.2,98,Yes,No,Former,COPD,No,Community Hospital
+P0029,E00029,2025-06-05,2025-06-08,70,Male,White,163,86,36.4,121,Yes,Yes,Never,Chest Pain,No,Community Hospital
+P0030,E00030,2025-05-29,2025-05-31,34,Male,Asian,122,96,19.8,150,Yes,No,Never,COPD,No,Community Hospital
+P0031,E00031,2025-07-24,2025-08-02,49,Male,Black,121,65,32.4,146,Yes,No,Former,Pneumonia,No,Community Hospital
+P0032,E00032,2025-10-06,2025-10-07,41,Female,Black,,58,39.3,78,No,No,Never,Diabetes,No,North Campus
+P0033,E00033,2025-01-17,2025-01-25,65,Female,Other,135,76,23.3,111,Yes,No,Never,Chest Pain,No,Community Hospital
+P0034,E00034,2025-02-10,2025-02-19,32,male,Asian,131,83,38.3,131,No,No,Former,Pneumonia,No,Community Hospital
+P0035,E00035,2025-04-30,2025-05-02,36,Female,White,166,51,29.9,112,No,Yes,Never,Chest Pain,No,University Medical Center
+P0036,E00036,2025-04-29,2025-05-03,66,Male,Asian,150,74,38.3,107,No,Yes,Former,Heart Failure,No,Community Hospital
+P0037,E00037,2025-06-27,2025-07-02,54,Female,Other,142,93,26.9,78,Yes,Yes,Former,Heart Failure,No,University Medical Center
+P0038,E00038,2025-03-21,2025-03-22,89,Female,Hispanic,148,79,33.2,126,No,Yes,Never,Heart Failure,No,Community Hospital
+P0039,E00039,2025-06-10,2025-06-11,81,Female,Asian,112,78,12.4,173,Yes,No,Former,Heart Failure,No,Community Hospital
+P0040,E00040,2025-11-23,2025-11-30,77,Female,White,110,80,7.2,136,No,No,Never,Diabetes,No,North Campus
+P0041,E00041,2025-02-22,2025-02-26,45,Male,Asian,175,66,26.4,62,Yes,Yes,Current,Stroke,No,Community Hospital
+P0042,E00042,2025-04-09,2025-04-17,43,Male,White,110,71,17.2,164,No,Yes,Never,Chest Pain,No,North Campus
+P0043,E00043,2025-03-02,2025-03-06,67,Female,Black,134,91,26.3,161,No,Yes,Never,Pneumonia,No,North Campus
+P0044,E00044,2025-01-30,2025-02-01,56,Male,White,143,85,26.0,96,No,Yes,Never,COPD,No,Community Hospital
+P0045,E00045,2025-04-15,2025-04-16,57,Female,Black,141,79,25.8,,Yes,Yes,Current,Heart Failure,Yes,Community Hospital
+P0046,E00046,2025-06-28,2025-06-30,28,Male,White,132,85,35.0,129,Yes,Yes,Never,Stroke,No,North Campus
+P0047,E00047,2025-01-10,2025-01-13,35,Male,Asian,119,85,31.4,133,No,Yes,Former,Pneumonia,Yes,Community Hospital
+P0048,E00048,2025-09-02,2025-09-09,74,Male,Other,144,92,23.4,88,Yes,Yes,current smoker,Heart Failure,No,North Campus
+P0049,E00049,2025-04-25,2025-05-01,29,Male,Black,104,78,30.9,90,No,Yes,Former,Chest Pain,No,University Medical Center
+P0050,E00050,2025-03-20,2025-03-22,84,Female,Other,122,78,39.9,121,No,No,Never,Diabetes,No,North Campus
+P0051,E00051,2025-03-20,2025-03-23,22,Male,Black,114,50,33.2,87,No,No,Never,Pneumonia,No,North Campus
+P0052,E00052,2025-01-06,2025-01-13,27,Female,Other,131,62,19.3,107,Yes,No,Current,Pneumonia,No,North Campus
+P0053,E00053,2025-09-30,2025-10-09,68,Male,Other,95,83,28.5,82,Yes,No,Never,Pneumonia,No,North Campus
+P0054,E00054,2025-04-02,2025-04-07,85,Female,Other,186,59,39.5,69,No,Yes,Never,Diabetes,Yes,Community Hospital
+P0055,E00055,2025-06-11,2025-06-20,63,Male,Other,98,52,27.8,100,No,Yes,Never,COPD,No,North Campus
+P0056,E00056,2025-04-27,2025-05-05,41,Male,Black,91,67,31.4,126,Yes,No,Former,Heart Failure,Yes,North Campus
+P0057,E00057,2025-03-14,2025-03-23,58,Male,White,106,76,34.3,151,Yes,No,Never,Pneumonia,No,North Campus
+P0058,E00058,2025-11-19,2025-11-26,83,Female,Asian,156,-5,37.3,117,Yes,Yes,Current,Heart Failure,Yes,Community Hospital
+P0059,E00059,2025-05-19,2025-05-23,69,Male,Hispanic,80,80,36.6,110,No,Yes,Never,Stroke,No,North Campus
+P0060,E00060,2025-01-08,2025-01-14,33,Female,Hispanic,143,62,26.7,128,No,Yes,Never,Stroke,No,University Medical Center
+P0061,E00061,2025-04-25,2025-05-01,86,Female,White,135,76,29.5,172,1,Yes,Former,Chest Pain,No,Community Hospital
+P0062,E00062,2025-09-12,2025-09-20,85,Female,Hispanic,132,69,25.1,123,No,No,Never,Heart Failure,No,University Medical Center
+P0063,E00063,2025-07-31,2025-08-01,77,Male,Asian,100,74,32.7,113,No,No,Never,Chest Pain,No,University Medical Center
+P0064,E00064,2025-04-20,2025-04-26,91,Male,Other,158,83,35.3,132,No,Yes,Never,Diabetes,No,North Campus
+P0065,E00065,2025-10-25,2025-10-30,35,Female,Other,172,101,22.9,54,No,Yes,Current,Diabetes,No,University Medical Center
+P0066,E00066,2025-01-04,2025-01-10,68,Male,White,104,84,26.5,118,Yes,No,Former,Heart Failure,No,North Campus
+P0067,E00067,2025-06-17,2025-06-22,81,Female,Asian,90,83,27.8,94,No,Yes,Former,Chest Pain,No,North Campus
+P0068,E00068,2025-01-18,,63,Female,Other,144,91,23.2,180,No,Yes,Never,Diabetes,No,North Campus
+P0069,E00069,2025-05-24,2025-05-31,74,Male,Hispanic,115,75,19.2,156,Yes,Yes,Never,COPD,No,Community Hospital
+P0070,E00070,2025-01-19,2025-01-17,35,Male,Hispanic,123,84,27.8,80,Yes,Yes,Never,Chest Pain,No,Community Hospital
+P0071,E00071,2025-01-09,2025-01-18,31,Male,Hispanic,144,57,31.5,100,No,Yes,Former,COPD,No,Community Hospital
+P0072,E00072,2025-07-27,2025-07-29,36,Female,White,172,77,28.8,78,No,Yes,Current,Diabetes,No,North Campus
+P0073,E00073,2025-09-04,2025-09-13,30,Male,White,119,102,35.9,83,No,Yes,Former,Chest Pain,No,Community Hospital
+P0074,E00074,2025-06-19,2025-06-21,67,Male,Asian,108,55,35.3,128,No,No,Former,Stroke,No,North Campus
+P0075,E00075,2025-09-05,2025-09-14,64,Male,Asian,109,71,40.8,612,Yes,No,Former,Diabetes,No,Community Hospital
+P0076,E00076,2025-08-08,2025-08-17,59,Female,Hispanic,159,69,31.4,80,No,Yes,Former,Chest Pain,No,University Medical Center
+P0077,E00077,2025-02-26,2025-03-04,70,Female,Other,147,82,37.7,114,No,Yes,Never,Stroke,No,Community Hospital
+P0078,E00078,2025-06-26,2025-07-02,68,Male,White,116,98,30.4,72,No,Yes,Never,Stroke,No,Community Hospital
+P0079,E00079,2025-04-10,2025-04-14,50,Male,Hispanic,170,63,32.6,,No,Yes,Current,Stroke,No,Community Hospital
+P0080,E00080,2025-02-12,2025-02-21,43,Male,Black,143,71,24.4,96,No,Yes,Current,Pneumonia,No,Community Hospital
+P0081,E00081,2025-09-06,2025-09-08,31,Male,Hispanic,167,69,28.5,73,Yes,Yes,Never,Pneumonia,No,Community Hospital
+P0082,E00082,2025-06-26,2025-07-05,81,Female,White,161,79,42.0,103,No,Yes,Former,Diabetes,No,Community Hospital
+P0083,E00083,2025-11-25,2025-11-28,65,Male,Asian,84,82,35.4,142,No,No,Never,Heart Failure,Yes,North Campus
+P0084,E00084,2025-03-26,2025-03-31,31,Female,White,150,94,34.5,128,No,Yes,Never,Heart Failure,No,University Medical Center
+P0085,E00085,2025-02-06,2025-02-07,54,Female,Black,176,62,28.8,96,No,Yes,Never,Pneumonia,No,Community Hospital
+P0086,E00086,2025-03-23,2025-03-27,66,Female,Black,131,40,34.8,143,Yes,Yes,Current,Diabetes,No,North Campus
+P0087,E00087,2025-08-13,2025-08-21,57,Male,Asian,87,80,28.0,72,Yes,No,Former,Diabetes,No,University Medical Center
+P0088,E00088,2025-06-16,2025-06-17,87,Male,Black,128,69,30.5,114,No,No,Current,Pneumonia,No,North Campus
+P0089,E00089,2025-04-30,2025-05-01,72,Male,White,,66,27.5,164,Yes,No,Never,Heart Failure,No,Community Hospital
+P0090,E00090,2025-01-15,2025-01-22,79,Male,Other,107,89,33.1,164,No,Yes,Never,Heart Failure,No,North Campus
+P0091,E00091,2025-05-11,2025-05-12,31,Male,Asian,164,68,23.6,81,Yes,Yes,Former,COPD,No,Community Hospital
+P0092,E00092,2025-09-18,2025-09-26,30,Female,Black,124,56,35.8,88,No,No,Never,COPD,No,Community Hospital
+P0093,E00093,2025-11-12,2025-11-19,24,Female,White,111,86,23.3,134,Yes,No,Never,Chest Pain,No,North Campus
+P0094,E00094,2025-06-05,2025-06-09,80,Male,Hispanic,155,86,45.2,101,Yes,Yes,Former,COPD,No,University Medical Center
+P0095,E00095,2025-01-23,2025-01-30,25,Female,Asian,163,76,19.2,173,No,Yes,Former,COPD,No,University Medical Center
+P0096,E00096,2025-11-26,2025-12-03,71,Male,White,121,89,34.1,96,No,Yes,Never,Heart failure,Yes,North Campus
+P0097,E00097,2025-08-10,2025-08-16,60,Male,Hispanic,99,80,33.1,105,Yes,No,Former,Stroke,No,Community Hospital
+P0098,E00098,2025-10-10,2025-10-19,79,Male,Asian,89,78,26.7,128,No,Yes,Former,Stroke,No,Community Hospital
+P0099,E00099,2025-07-25,2025-07-26,48,Female,Hispanic,123,89,37.7,124,No,Yes,Former,Diabetes,No,Community Hospital
+P0100,E00100,2025-03-17,2025-03-19,30,Male,White,92,58,37.8,134,No,No,Never,Pneumonia,No,Community Hospital
+P0101,E00101,2025-01-23,2025-01-26,51,Female,Other,137,70,17.8,95,No,No,Never,Heart Failure,No,Community Hospital
+P0102,E00102,2025-03-20,2025-03-29,71,Male,White,117,66,28.5,,No,No,Never,COPD,No,University Medical Center
+P0103,E00103,2025-09-17,2025-09-20,32,Female,Asian,125,78,22.6,73,No,No,Current,Diabetes,No,Community Hospital
+P0104,E00104,2025-01-11,2025-01-15,36,Female,Asian,123,75,30.5,112,No,Yes,Never,Chest Pain,No,North Campus
+P0105,E00105,2025-03-22,2025-03-31,47,Female,White,148,79,37.7,164,No,Yes,Former,CHF,Yes,North Campus
+P0106,E00106,2025-07-26,2025-08-02,61,Female,Black,142,67,24.4,84,No,Yes,Former,COPD,No,University Medical Center
+P0107,E00107,2025-08-06,2025-08-07,25,Male,Asian,126,75,28.1,65,No,No,Never,Stroke,No,Community Hospital
+P0108,E00108,2025-08-29,2025-09-02,70,Female,Asian,160,65,31.1,77,No,Yes,Former,Pneumonia,No,North Campus
+P0109,E00109,2025-11-11,2025-11-20,24,Male,Hispanic,150,80,34.7,55,No,Yes,Never,Diabetes,No,University Medical Center
+P0110,E00110,2025-10-14,2025-10-18,54,Female,Hispanic,136,75,38.4,156,No,Yes,Former,Pneumonia,Yes,Community Hospital
+P0111,E00111,2025-11-22,2025-11-27,70,Male,Black,112,114,30.5,184,No,No,Never,Heart Failure,Yes,Community Hospital
+P0112,E00112,2025-04-03,2025-04-10,61,Female,Asian,141,88,31.2,95,No,Yes,Former,Pneumonia,No,North Campus
+P0113,E00113,2025-07-12,2025-07-20,65,Male,Black,169,66,27.8,132,Yes,Yes,Former,COPD,No,University Medical Center
+P0114,E00114,2025-01-25,2025-01-26,59,Female,Hispanic,114,57,31.3,121,No,No,Never,Stroke,No,University Medical Center
+P0115,E00115,2025-04-15,2025-04-22,36,Male,White,113,69,30.6,105,No,No,Current,Chest Pain,Yes,Community Hospital
+P0116,E00116,2025-02-10,2025-02-17,85,Male,Black,161,69,38.1,144,No,Yes,Never,COPD,No,North Campus
+P0117,E00117,2025-05-20,2025-05-29,58,Female,Asian,122,74,30.5,100,No,No,Never,Pneumonia,Yes,University Medical Center
+P0118,E00118,2025-08-19,2025-08-27,62,Female,White,154,71,21.1,88,Yes,Yes,Never,Heart Failure,No,Community Hospital
+P0119,E00119,2025-02-05,2025-02-09,44,Male,White,106,84,32.2,58,No,Yes,Current,Heart Failure,No,University Medical Center
+P0120,E00120,2025-09-13,2025-09-14,44,Male,Hispanic,156,75,28.5,107,No,Yes,Current,COPD,No,North Campus
+P0023,E00023,2025-03-09,2025-03-11,51,Male,Black,101,73,21.6,52,No,Yes,Former,Stroke,No,University Medical Center
+P0042,E99998,2025-04-29,2025-05-02,43,Male,White,110,71,17.2,164,No,Yes,Never,Chest Pain,No,North Campus
