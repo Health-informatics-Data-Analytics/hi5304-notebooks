@@ -1,0 +1,121 @@
+patient_id,age_years,sex,admission_type,systolic_bp_mmHg,ldl_mg_dL,pain_score_0_10,diabetes,smoking_status,length_of_stay_days,readmitted_30d,discharge_disposition,study_group
+P1001,69.0,Male,Emergency,169.0,136.0,3,Yes,Former,4.8,No,Home,Care Coordination
+P1002,84.0,Female,Elective,126.0,119.0,10,No,Never,6.5,No,Home,Care Coordination
+P1003,60.0,Female,Emergency,140.0,141.0,2,No,Never,3.3,No,Home,Usual Care
+P1004,89.0,Female,Elective,149.0,71.0,9,No,Former,1.5,No,Skilled Nursing Facility,Usual Care
+P1005,82.0,Female,Emergency,111.0,127.0,9,No,Never,5.2,No,Home,Care Coordination
+P1006,67.0,Female,Emergency,124.0,76.0,0,No,Never,1.1,No,Home,Care Coordination
+P1007,89.0,Female,Urgent,133.0,86.0,5,No,Never,1.9,No,Home,Care Coordination
+P1008,46.0,Male,Elective,153.0,106.0,2,No,Current,0.7,Yes,Skilled Nursing Facility,Usual Care
+P1009,,Female,Emergency,128.0,133.0,6,No,Never,3.6,No,Skilled Nursing Facility,Care Coordination
+P1010,88.0,Male,Urgent,99.0,130.0,8,No,Never,5.4,No,Home,Usual Care
+P1011,86.0,Male,Emergency,154.0,179.0,7,No,Never,7.6,No,Home,Usual Care
+P1012,87.0,Female,Urgent,121.0,151.0,10,Yes,Never,1.3,No,Home,Care Coordination
+P1013,27.0,Female,Emergency,136.0,103.0,5,No,Former,7.5,No,Skilled Nursing Facility,Care Coordination
+P1014,41.0,Male,Emergency,110.0,95.0,2,Yes,Never,3.9,No,Home,Usual Care
+P1015,55.0,Female,Emergency,,136.0,7,Yes,Current,4.9,No,Home,Care Coordination
+P1016,72.0,Male,Urgent,152.0,95.0,4,Yes,Former,2.7,No,Rehabilitation,Care Coordination
+P1017,77.0,Female,Emergency,143.0,91.0,1,No,Never,1.2,No,Skilled Nursing Facility,Care Coordination
+P1018,86.0,Female,Elective,151.0,84.0,1,Yes,current,1.9,No,Skilled Nursing Facility,Care Coordination
+P1019,81.0,Female,Emergency,157.0,84.0,9,Yes,Former,3.4,No,Home,Usual Care
+P1020,54.0,Male,Urgent,113.0,118.0,0,No,Current,1.4,No,Skilled Nursing Facility,Care Coordination
+P1021,65.0,Male,Emergency,143.0,105.0,9,No,Current,9.0,No,Skilled Nursing Facility,Care Coordination
+P1022,76.0,Female,Emergency,105.0,114.0,2,No,Former,5.1,Yes,Skilled Nursing Facility,Usual Care
+P1023,25.0,Male,Emergency,126.0,,5,No,Former,2.0,No,Rehabilitation,Usual Care
+P1024,39.0,Female,Elective,91.0,150.0,6,Yes,Former,2.8,No,Home,Care Coordination
+P1025,60.0,Male,Emergency,113.0,84.0,5,No,Never,3.5,No,Skilled Nursing Facility,Care Coordination
+P1026,62.0,Female,Emergency,148.0,73.0,9,Yes,Never,4.1,No,Home,Care Coordination
+P1027,46.0,Female,Elective,127.0,107.0,8,No,Current,5.8,Yes,Home,Usual Care
+P1028,72.0,Male,Emergency,141.0,103.0,7,No,Former,0.8,No,Home,Care Coordination
+P1029,77.0,Female,Elective,151.0,127.0,9,No,Former,1.7,No,Home,Care Coordination
+P1030,40.0,Male,Emergency,125.0,127.0,6,No,Never,2.8,No,Home,Care Coordination
+P1031,85.0,Female,Elective,122.0,112.0,10,No,Never,4.9,No,Home,Usual Care
+P1032,50.0,Female,Emergency,151.0,143.0,4,No,Never,1.6,No,Home,Care Coordination
+P1033,23.0,Female,Emergency,133.0,119.0,8,No,Never,4.5,No,Home,Usual Care
+P1034,61.0,Male,Emergency,133.0,125.0,3,No,Never,3.9,Yes,Home,Usual Care
+P1035,65.0,Female,Emergency,107.0,169.0,10,No,Never,2.5,No,Home,Usual Care
+P1036,73.0,Female,Emergency,151.0,122.0,1,No,Former,0.9,No,Home,Usual Care
+P1037,78.0,Female,Elective,126.0,153.0,6,Yes,Former,1.9,No,Skilled Nursing Facility,Care Coordination
+P1038,,Male,Emergency,124.0,68.0,1,No,Former,2.7,No,Rehabilitation,Care Coordination
+P1039,22.0,Male,Emergency,143.0,101.0,5,No,Never,5.8,No,Home,Usual Care
+P1040,56.0,Male,Emergency,152.0,85.0,2,No,Never,2.2,No,Home,Usual Care
+P1041,32.0,Female,Urgent,127.0,96.0,7,Yes,Former,1.7,No,Skilled Nursing Facility,Care Coordination
+P1042,74.0,Male,Emergency,124.0,,5,No,Current,0.5,No,Home,Care Coordination
+P1043,66.0,Male,Emergency,139.0,63.0,5,No,Never,2.9,No,Home,Care Coordination
+P1044,89.0,Male,Elective,125.0,76.0,1,No,Current,2.0,Yes,Home,Care Coordination
+P1045,49.0,Female,Emergency,149.0,138.0,8,No,Never,5.3,No,Home,Usual Care
+P1046,84.0,Female,Elective,109.0,102.0,5,Yes,Never,2.7,No,Home,Care Coordination
+P1047,44.0,Female,Emergency,144.0,133.0,5,Yes,Never,1.3,Yes,Home,Usual Care
+P1048,77.0,Male,Elective,159.0,91.0,1,Yes,Never,3.3,No,Home,Usual Care
+P1049,85.0,Male,Emergency,142.0,100.0,8,No,Former,4.0,No,Home,Care Coordination
+P1050,35.0,Female,Elective,122.0,97.0,8,No,Never,2.2,No,Home,Usual Care
+P1051,65.0,Female,Emergency,135.0,132.0,3,No,Current,0.4,No,Home,Care Coordination
+P1052,59.0,Female,Elective,115.0,126.0,2,No,Former,3.9,No,Skilled Nursing Facility,Care Coordination
+P1053,50.0,Female,Elective,145.0,84.0,1,No,Former,0.4,No,Skilled Nursing Facility,Usual Care
+P1054,39.0,Female,Elective,125.0,111.0,8,Yes,Never,0.9,No,Home,Care Coordination
+P1055,68.0,Female,Emergency,157.0,85.0,9,No,Never,7.6,No,Home,Usual Care
+P1056,82.0,Male,Emergency,135.0,193.0,9,No,Never,1.4,No,Home,Care Coordination
+P1057,65.0,Female,Elective,142.0,126.0,2,No,Former,3.9,No,Home,Usual Care
+P1058,69.0,Male,Emergency,141.0,135.0,6,No,Never,14.6,No,Hospice,Usual Care
+P1059,54.0,Female,Emergency,,73.0,6,No,Former,7.3,No,Home,Care Coordination
+P1060,42.0,Male,Elective,116.0,135.0,1,No,Never,1.7,Yes,Home,Usual Care
+P1061,48.0,Female,Emergency,145.0,122.0,6,No,Never,1.0,No,Home,Care Coordination
+P1062,33.0,Male,ER,134.0,88.0,6,No,Former,9.5,No,Home,Care Coordination
+P1063,59.0,Female,Elective,133.0,182.0,5,No,Former,2.5,No,Home,Care Coordination
+P1064,46.0,Male,Urgent,155.0,118.0,1,No,Never,1.9,No,Home,Care Coordination
+P1065,55.0,Female,Emergency,136.0,91.0,5,No,Former,0.7,Yes,Home,Care Coordination
+P1066,51.0,Female,Emergency,89.0,148.0,4,No,Current,3.1,No,Skilled Nursing Facility,Usual Care
+P1067,75.0,Male,Emergency,164.0,128.0,8,No,Former,6.7,No,Skilled Nursing Facility,Care Coordination
+P1068,43.0,Female,Emergency,98.0,77.0,10,No,Never,12.2,No,Home,Care Coordination
+P1069,27.0,Male,Urgent,129.0,46.0,10,Yes,Former,11.8,Yes,Rehabilitation,Care Coordination
+P1070,50.0,Female,Emergency,138.0,166.0,5,Yes,Former,1.3,No,Skilled Nursing Facility,Care Coordination
+P1071,27.0,Female,Emergency,140.0,95.0,0,No,Never,17.6,No,Home,Care Coordination
+P1072,59.0,Male,Elective,146.0,152.0,6,No,Never,1.1,No,Home,Care Coordination
+P1073,72.0,Female,Emergency,135.0,140.0,7,No,Former,5.5,No,Skilled Nursing Facility,Care Coordination
+P1074,38.0,Male,Elective,128.0,71.0,4,No,Never,5.6,No,Skilled Nursing Facility,Care Coordination
+P1075,72.0,Male,Emergency,116.0,109.0,7,No,Never,9.5,No,Home,Care Coordination
+P1076,24.0,Female,Emergency,182.0,108.0,1,No,Never,4.6,No,Home,Usual Care
+P1077,58.0,Female,Emergency,143.0,167.0,1,No,Never,1.1,Yes,Home,Usual Care
+P1078,63.0,Male,Emergency,122.0,146.0,8,Yes,Former,2.8,No,Home,Usual Care
+P1079,70.0,Female,Emergency,128.0,156.0,6,No,Never,3.3,No,Rehabilitation,Care Coordination
+P1080,87.0,Female,Emergency,120.0,78.0,99,No,Current,12.3,No,Home,Care Coordination
+P1081,47.0,Male,Emergency,136.0,170.0,9,No,Former,4.4,No,Home,Usual Care
+P1082,47.0,Male,Emergency,134.0,112.0,6,No,Former,2.1,Yes,Home,Care Coordination
+P1083,76.0,Male,Elective,126.0,87.0,9,No,Current,5.1,No,Home,Care Coordination
+P1084,73.0,Female,Elective,124.0,116.0,3,Yes,Never,2.4,No,Home,Usual Care
+P1085,49.0,Female,Emergency,113.0,117.0,3,No,Never,2.1,No,Home,Usual Care
+P1086,71.0,Male,Elective,117.0,136.0,9,No,Current,3.9,No,Home,Usual Care
+P1087,81.0,Female,Urgent,126.0,146.0,3,No,Former,4.7,No,Home,Usual Care
+P1088,46.0,Male,Emergency,134.0,129.0,10,No,Current,8.4,No,Skilled Nursing Facility,Care Coordination
+P1089,22.0,Male,Elective,142.0,125.0,5,No,Former,1.6,Yes,Skilled Nursing Facility,Care Coordination
+P1090,23.0,Female,Emergency,145.0,79.0,9,No,Never,2.6,No,Home,Care Coordination
+P1091,51.0,Male,Emergency,151.0,145.0,3,No,Never,6.1,No,Home,Usual Care
+P1092,37.0,Female,Emergency,106.0,115.0,5,No,Never,2.2,No,Home,Usual Care
+P1093,70.0,Female,Emergency,130.0,159.0,0,No,Never,1.6,No,Home,Care Coordination
+P1094,76.0,Female,Emergency,137.0,132.0,6,Yes,Never,1.5,No,Home,Usual Care
+P1095,85.0,Female,Elective,93.0,157.0,4,No,Never,1.1,No,Home,Care Coordination
+P1096,75.0,Female,Emergency,132.0,107.0,7,No,Never,4.5,No,Home,Usual Care
+P1097,26.0,Female,Emergency,,125.0,1,No,Never,1.9,No,Home,Care Coordination
+P1098,69.0,Male,Elective,170.0,155.0,7,No,Never,3.4,No,Home,Usual Care
+P1099,38.0,Male,Elective,101.0,131.0,9,No,Former,1.9,No,Home,Care Coordination
+P1100,31.0,Female,Emergency,138.0,117.0,7,No,Current,0.7,Yes,Home,Usual Care
+P1101,42.0,Female,Emergency,127.0,79.0,3,No,Never,1.7,No,Home,Care Coordination
+P1102,54.0,Male,Elective,98.0,149.0,9,No,Current,1.8,No,Rehabilitation,Care Coordination
+P1103,23.0,Male,Emergency,162.0,156.0,2,No,Never,-1.0,No,Home,Care Coordination
+P1104,30.0,Male,Elective,124.0,152.0,1,No,Never,7.9,No,Home,Care Coordination
+P1105,84.0,Female,Emergency,113.0,145.0,0,No,Never,1.9,Yes,Home,Care Coordination
+P1106,39.0,Female,Emergency,107.0,105.0,0,No,Never,5.0,Yes,Home,Care Coordination
+P1107,33.0,Male,Elective,128.0,97.0,1,No,Never,0.4,Yes,Home,Usual Care
+P1108,22.0,Male,Emergency,133.0,139.0,8,Yes,Former,3.3,No,Home,Usual Care
+P1109,83.0,Male,Emergency,117.0,105.0,4,No,Former,5.2,No,Hospice,Usual Care
+P1110,42.0,Male,Emergency,126.0,119.0,0,Yes,Never,7.3,No,Home,Care Coordination
+P1111,67.0,Female,Elective,123.0,59.0,9,No,Former,3.9,No,Home,Usual Care
+P1112,50.0,Male,Emergency,138.0,115.0,3,No,Former,3.0,Yes,Home,Usual Care
+P1113,41.0,Male,Emergency,148.0,67.0,10,No,Never,2.9,Yes,Home,Care Coordination
+P1114,24.0,Female,Emergency,126.0,53.0,4,No,Current,18.0,No,Home,Usual Care
+P1115,58.0,Female,Urgent,158.0,80.0,4,No,Never,5.7,Yes,Home,Care Coordination
+P1116,23.0,Female,Urgent,165.0,148.0,7,No,Current,2.4,No,Home,Care Coordination
+P1117,37.0,Male,Emergency,143.0,109.0,9,No,Current,3.1,No,Home,Care Coordination
+P1118,47.0,Male,Emergency,127.0,140.0,5,No,Never,1.5,No,Home,Usual Care
+P1119,22.0,Male,Elective,116.0,113.0,8,No,Former,2.3,No,Home,Usual Care
+P1120,61.0,Female,Elective,120.0,107.0,8,No,Never,4.0,Yes,Hospice,Care Coordination
